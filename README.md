@@ -36,20 +36,20 @@ A number of approaches were possible for this project. A sparse matrix implement
   ```
  * This yields the following boards at each iteration:
   ```
-  010
-  000
-  111
-  010
+    010
+    000
+    111
+    010
 
-  000
-  101
-  111
-  111
+    000
+    101
+    111
+    111
 
-  00000
-  01010
-  10001
-  01010
-  00100
+    00000
+    01010
+    10001
+    01010
+    00100
   ```
    
