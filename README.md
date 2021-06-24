@@ -34,7 +34,7 @@ A number of approaches were possible for this project. A sparse matrix implement
   >> 010  
   >> 111
   ```
- * This yields the following boards at each iteration:
+* This yields the following boards at each iteration:
   ```
     010
     000
