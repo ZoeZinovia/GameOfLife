@@ -27,9 +27,11 @@ A number of approaches were possible for this project. A sparse matrix implement
 * Simply clone the code from this repository. If using Eclipe, IntelliJ or another IDE, client.java can be run. 
 * If running on terminal, src code needs to be compiled before running client. This can be done by navigating into the src directory of the cloned the repository. Then run: ```javac -d ./../bin -sourcepath . Client.java ```. Then the application can be run from the bin directory with the following command: ```java Client```
 * The following command arguments are expected: An integer in the first line that represents the desired number of iterations. On the next line/s you can enter the initial configuration of the Game of Life board. If the initial configuration is empty, an empty board will be created. See below for an example:
-  ```java Client```
-     ```3  
+  ```
+  java Client
+     3  
      101  
      010  
-     101```
+     101
+  ```
    
